@@ -1,1 +1,2 @@
 # github-exercise
+はじめてのgit
